@@ -1,7 +1,5 @@
 ..
 Jared Kremer 
-1001562181
-Project 1
 Table of Contents
 ------------------
 
